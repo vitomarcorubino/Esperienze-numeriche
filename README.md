@@ -7,6 +7,9 @@ La presentazione dei risultati delle esperienze numeriche mette in evidenza le p
 * Ricerca delle radici di una funzione <br>
 * Formule di quadratura per il calcolo di integrali definiti <br>
 
+## 📚 Presentazione dei risultati
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1L0JYQ5oOvo2UfmxxWIx8UL4MHs0YsyRd/view?usp=sharing)
+
 ## 🌐 Collaborators
 * Priore Giovanni <br>
 [![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/GiovanniPriore) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-priore-6b8508205/) 
